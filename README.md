@@ -1,7 +1,7 @@
 - 👦 Kauan
-- 🎉 20y
+- 🎉 21y
 - 👨‍🎓 Student
-- 📍 Brazil RS
+- 📍 Brazil, RS
 
 <!---
 AyatoSalvatore/AyatoSalvatore is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
